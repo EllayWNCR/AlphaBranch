@@ -13,6 +13,9 @@ Details:
   
   Point of Contact: Paul Gardiner
   
-Project Summary: Cash forecasting model in-use that attempt to minimize out-of-cash
+Project Summary: Combining Statistical Modeling, Business Insights, and the Real World.
+
+Project Details: 
+  Cash forecasting model in-use that attempt to minimize out-of-cash.
 
 Source Files:
