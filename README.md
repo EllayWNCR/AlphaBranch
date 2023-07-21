@@ -18,4 +18,8 @@ Project Summary: Combining Statistical Modeling, Business Insights, and the Real
 Project Details: 
   Cash forecasting model in-use that attempt to minimize out-of-cash.
 
-Source Files:
+Source Files: 
+Run in SQL Server:
+  001: Code for data pull
+  002: Code for forecasting
+  005: Code for error analysis
