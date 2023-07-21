@@ -1,8 +1,11 @@
 # AlphaBranch
 
 Team Name: AlphaBranch
+
 Business Unit: Banking
+
 Challenge Title: Frictionless cash management and movement between NCR's ATMs and partners
+
 Details:
   Make cash management and movement frictionless between NCR, our ATMs and our partners.
   
